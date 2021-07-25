@@ -1,0 +1,34 @@
+{
+  "name": "curso_node",
+  "version": "1.0.0",
+  "description": "curos nodes js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemariadecarvalho/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "upd",
+    "cripto"
+  ],
+  "author": "José Maria de Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josemariadecarvalho/cursonode/issues"
+  },
+  "homepage": "https://github.com/josemariadecarvalho/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
